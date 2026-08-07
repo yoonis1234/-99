@@ -1,0 +1,26 @@
+body {
+    background: #111;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+.dashboard {
+    max-width: 800px;
+    margin: 40px auto;
+    text-align: center;
+}
+
+.card {
+    background: #222;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 12px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    color: #00ff99;
+}
